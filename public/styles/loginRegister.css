@@ -1,0 +1,27 @@
+nav{    
+    box-shadow: 0px 5px 25px rgb(212, 206, 206);
+    background-color: #0D0E8B !important;
+}
+
+.btn{
+    background-color: #0D0E8B !important;
+    color: white;
+}
+
+nav p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.form{
+    margin-top: 30px;
+}
+
+.errorMsg{
+    font-size: 18px;
+    color: red ;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
